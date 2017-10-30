@@ -1,0 +1,61 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+header {
+  padding: 5px;
+  display: block;
+  text-align: center;
+  word-spacing: 5px;
+  color: yellow;
+  background-color: pink;
+  width: 790px;
+  font-family: fantasy;
+  text-shadow: 3px 2px blue;
+}
+
+nav {
+  line-height:;
+  background-color: lightgreen;
+  height: 100%;
+  width:125px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color: ;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+}
+
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:;
+  font-size: ;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  text-align:;
+  padding:5px;
+  display: block;
+}
