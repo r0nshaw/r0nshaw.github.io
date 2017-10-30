@@ -16,7 +16,7 @@ header {
   word-spacing: 5px;
   color: yellow;
   background-color: lightgreen;
-  width: 790px;
+  width: 870px;
   font-family: fantasy;
   text-shadow: 3px 2px blue;
 }
@@ -32,12 +32,21 @@ nav {
   padding-left: auto;
   padding-top: 40px;
   padding-right: auto;
-  border-right: 10px dotted;
+  border-right: 10px solid;
   border-bottom-width: medium;
   border-right-color: #191970;
   width: 170px;
 }
+article {
+  text-indent: 60px;
+  width: 800px;
+  background-color: #AFEEEE;
+  display: block;
+  padding: 40px 40px;
+  min-height: 60%;
+  color: #191970;
 
+}
 nav ul {
   list-style-type: none;
 }
